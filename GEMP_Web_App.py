@@ -722,6 +722,7 @@ Total      |   205     |     80      |    89    |  374
                 "options": ["A. 0.250", "B. 0.025", "C. 0.398", "D. 0.053"],
                 "correct": 0, "explanation": "Formula: P(Arab | Medium). \nLook at the 'Medium Risk' column. Total Medium = 80. \nNumber of Arabs in that column = 20. \nProb = 20 / 80 = 0.25."
             },
+            {
                 "q": "122. What is the probability that someone randomly selected will be an Arab given that he has medium risk?",
                 "options": ["A. 0.250", "B. 0.025", "C. 0.398", "D. 0.053", "E. 0.200"],
                 "correct": 0, "explanation": "Total Medium Risk = 25+35+20 = 80. Arabs with Medium Risk = 20. Prob = 20/80 = 0.25."
