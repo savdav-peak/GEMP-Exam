@@ -700,7 +700,6 @@ questions = [
             },
             {
 # --- QUANTITATIVE: TABLE 1 (Exact Data) ---
-            {
                 "type": "passage",
                 "text": """DATA TABLE: Risk of HBV infection among various races (Table 1)
 -------------------------------------------------------
@@ -751,8 +750,7 @@ Total      |   205     |     80      |    89    |  374
                 "q": "131. Solve for x and y: x + 2y = 9; 3x - 4y = -33",
                 "options": ["A. x=2, y=7", "B. x=3, y=-6", "C. x=-3, y=6", "D. x=9, y=12", "E. x=0, y=0"],
                 "correct": 2, "explanation": "Multiply eq1 by 2: 2x + 4y = 18. Add to eq2: (3x - 4y) + (2x + 4y) = -33 + 18. 5x = -15 -> x = -3. Sub x into eq1: -3 + 2y = 9 -> 2y = 12 -> y = 6."
-            }
-            }            
+            }           
 ]
 
 # --- SIDEBAR (Timer & Navigation) ---
