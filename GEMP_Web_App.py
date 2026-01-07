@@ -627,7 +627,7 @@ questions = [
                 "options": ["A. senses...stimulated", "B. opinions...confirmed", "C. preconceptions...substantiated", "D. questions...interpolated", "E. doubts...dispelled"],
                 "correct": 4, 
                 "explanation": "Cogent (convincing) arguments would cause 'doubts' to be 'dispelled'."
-            }
+            },
             
             # --- COMPREHENSION PASSAGE ---
             {
