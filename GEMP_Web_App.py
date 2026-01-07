@@ -21,7 +21,6 @@ questions = [
     # ... (I have included the full high-fidelity database below) ...
     # ENGLISH SECTION
         # --- QUESTIONS ---
-        self.questions = [
             # --- SECTION A: ENGLISH (Expression & Grammar) ---
             {
                 "q": "1. No longer confined to his hospital bed, the man still did not feel up to taking a walk around the block.",
@@ -837,4 +836,5 @@ else:
     if st.button("Restart Exam"):
         for key in st.session_state.keys():
             del st.session_state[key]
+
         st.rerun()
